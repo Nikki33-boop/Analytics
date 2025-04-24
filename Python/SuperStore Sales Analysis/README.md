@@ -53,3 +53,5 @@ Segment-wise differences can inform targeted marketing strategies.
 Each main category (Office Supplies, Technology, Furniture) was broken down into sub-categories.
 Office Supplies had a more diverse set of sub-categories compared to Furniture and Technology.
 These visualizations can help in analyzing which sub-products drive category performance.
+
+6. The time series graph shows that the order count has consistently increaed from 2010 to 2013
